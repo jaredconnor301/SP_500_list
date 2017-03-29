@@ -1,4 +1,4 @@
-# Project Title
+# SP 500 Data
 
 This was a project to scrape the web for a list of the S&P500 companies. Then populate that list to include relevant market price data
 
