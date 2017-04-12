@@ -24,4 +24,4 @@ import requests
 ## Acknowledgments
 
 * Harrison - *Initial Work* - [sentdex](https://github.com/Sentdex)
-* [sentdex YouTube](YouTube.com/Sentdex)
+* [sentdex YouTube](https://www.youtube.com/results?search_query=sentdex)
